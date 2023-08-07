@@ -1,5 +1,18 @@
 # LoginScreen
-LoginScreen: A secure PowerApps project with SharePoint list as backend. Robust login screen for authorized access. Seamless integration of frontend and backend. Protect information and enhance authentication.
+
+
+Welcome to LoginScreen! 🔐💻
+
+A secure PowerApps project with SharePoint list as backend. 🚀💼
+
+Robust login screen for authorized access. 🛡️🔑
+
+Seamless integration of frontend and backend. 🔄💻📋
+
+Protect information and enhance authentication. 🔒🔐💪
+
+Get started today and fortify your application's security! 🎉🚀💻
+
 
 ![LS-1](https://github.com/JayasreeSKota/LoginScreen/assets/92210967/143d0aaf-d4f2-4161-853e-dcc13bc3fb88)
 
